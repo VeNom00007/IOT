@@ -1,0 +1,19 @@
+<anim ver="netanim-3.108" filetype="animation" >
+<node id="0" sysId="0" locX="60" locY="0" />
+<node id="1" sysId="0" locX="0" locY="10" />
+<node id="2" sysId="0" locX="0" locY="50" />
+<node id="3" sysId="0" locX="31" locY="78" />
+<nu p="c" t="0" id="0" r="255" g="0" b="0" />
+<nu p="c" t="0" id="1" r="255" g="0" b="0" />
+<nu p="c" t="0" id="2" r="255" g="0" b="0" />
+<nu p="c" t="0" id="3" r="255" g="0" b="0" />
+<link fromId="2" toId="3" fd="" td="" ld="" />
+<nu p="s" t="0" id="0" w="1" h="1" />
+<nu p="s" t="0" id="1" w="1" h="1" />
+<nu p="s" t="0" id="2" w="1" h="1" />
+<nu p="s" t="0" id="3" w="1" h="1" />
+<ncs ncId="0" n="RemainingEnergy" t="DOUBLE" />
+<p fId="2" fbTx="4.051456261" lbTx="4.051489861" tId="3" fbRx="4.053456261" lbRx="4.053489861" />
+<p fId="2" fbTx="10.05145613" lbTx="10.05148973" tId="3" fbRx="10.05345613" lbRx="10.05348973" />
+<p fId="3" fbTx="11.05348973" lbTx="11.05350733" tId="2" fbRx="11.05548973" lbRx="11.05550733" />
+</anim>
